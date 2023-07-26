@@ -6,5 +6,6 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+    s='Index1'
+    return s.find('x')
+print(main('Index1'))
