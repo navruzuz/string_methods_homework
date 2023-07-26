@@ -7,4 +7,5 @@ def main(s):
         bool: answer
     """
     
-    return
+    return s.lower()
+print(main('Python dasturlash tili'))
