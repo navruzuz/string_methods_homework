@@ -7,5 +7,5 @@ def main(s):
         str: answer
     """
     
-    return s.upper()
+    return s.capitalize()
 print(main('Python dasrturlash tili'))
