@@ -6,5 +6,6 @@ def main(s):
     Returns:
         int: answer
     """
-    
-    return
+    s='python1'
+    return s.count('a')
+print(main('python1'))
